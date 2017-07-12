@@ -1,4 +1,4 @@
-note
+# note
 my new note
 # 浏览器参数
 ### 协议
